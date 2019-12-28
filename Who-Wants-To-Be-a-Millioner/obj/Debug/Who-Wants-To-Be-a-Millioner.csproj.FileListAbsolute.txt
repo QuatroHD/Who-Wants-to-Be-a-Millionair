@@ -1,0 +1,5 @@
+/Users/kadirkutluhanalev/Desktop/Who-Wants-To-Be-a-Millioner/Who-Wants-To-Be-a-Millioner/bin/Debug/Who-Wants-To-Be-a-Millioner.exe
+/Users/kadirkutluhanalev/Desktop/Who-Wants-To-Be-a-Millioner/Who-Wants-To-Be-a-Millioner/bin/Debug/Who-Wants-To-Be-a-Millioner.pdb
+/Users/kadirkutluhanalev/Desktop/Who-Wants-To-Be-a-Millioner/Who-Wants-To-Be-a-Millioner/obj/Debug/Who-Wants-To-Be-a-Millioner.csprojAssemblyReference.cache
+/Users/kadirkutluhanalev/Desktop/Who-Wants-To-Be-a-Millioner/Who-Wants-To-Be-a-Millioner/obj/Debug/Who-Wants-To-Be-a-Millioner.exe
+/Users/kadirkutluhanalev/Desktop/Who-Wants-To-Be-a-Millioner/Who-Wants-To-Be-a-Millioner/obj/Debug/Who-Wants-To-Be-a-Millioner.pdb
