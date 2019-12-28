@@ -23,6 +23,7 @@ namespace WhoWantsToBeaMillioner
         public string[] getAllQuestions()
         {
             String[] example = new String[] {""};
+
             return example;
         }
 

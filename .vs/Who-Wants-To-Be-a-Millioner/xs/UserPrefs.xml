@@ -1,17 +1,14 @@
 ﻿<Properties StartupConfiguration="{751A509E-4839-49A5-B1C2-2D766ED92FF0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Who-Wants-To-Be-a-Millioner/Questions.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Who-Wants-To-Be-a-Millioner/Administration.cs">
     <Files>
-      <File FileName="Who-Wants-To-Be-a-Millioner/Program.cs" Line="9" Column="13" />
-      <File FileName="Who-Wants-To-Be-a-Millioner/Administration.cs" Line="22" Column="1" />
-      <File FileName="Who-Wants-To-Be-a-Millioner/Questions.cs" Line="8" Column="46" />
+      <File FileName="Who-Wants-To-Be-a-Millioner/Program.cs" Line="10" Column="13" />
+      <File FileName="Who-Wants-To-Be-a-Millioner/Administration.cs" Line="15" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Who-Wants-To-Be-a-Millioner" expanded="True">
-            <Node name="Who-Wants-To-Be-a-Millioner" expanded="True">
-              <Node name="Questions.cs" selected="True" />
-            </Node>
+            <Node name="Who-Wants-To-Be-a-Millioner" expanded="True" />
           </Node>
         </State>
       </Pad>
